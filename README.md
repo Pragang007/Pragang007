@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Pratik
 - 👀 I’m interested in Exploring all Data Related Fields...
-- 🌱 I’m currently learning Data visulation tools
+- 🌱 I’m currently learning Data visulization tools
+- 🌱 I’m currently learning Data Engineering tools
 - 💞️ I’m looking to collaborate on Multiple tools and design Real-time Project
 - 📫 How to reach 
 
